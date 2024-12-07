@@ -45,8 +45,7 @@ https://gluonhq.com/products/javafx/
 
 Rozbalte stažený soubor do vámi preferované složky. Například:
 
-makefile
-Zkopírovat kód
+
 C:\javafx-sdk-23.0.1
 Ověřte, že složka lib v adresáři JavaFX obsahuje potřebné .jar soubory.
 
@@ -68,7 +67,7 @@ Potvrďte kliknutím na OK.
 Otevřete terminál (buď v IntelliJ IDEA nebo samostatný).
 Ujistěte se, že Maven má přístup ke všem závislostem:
 bash
-Zkopírovat kód
+
 mvn clean install
 Pokud je vše nastaveno správně, Maven stáhne všechny potřebné knihovny a připraví aplikaci ke spuštění.
 
